@@ -1,0 +1,57 @@
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\Content\ninja.xnb
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\Platformer.exe
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\Platformer.pdb
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\obj\x86\Debug\Platformer.exe
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\obj\x86\Debug\Platformer.pdb
+c:\users\user1\documents\visual studio 2015\Projects\Platformer\Platformer\bin\Windows\x86\Debug\Content\block.xnb
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\obj\x86\Debug\Platformer.exe
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\obj\x86\Debug\Platformer.pdb
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Content\block.xnb
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Content\ninja.xnb
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Platformer.exe
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Platformer.pdb
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Content\player.xnb
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Content\spike.xnb
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
+C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Level1.txt
