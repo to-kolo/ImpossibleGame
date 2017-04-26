@@ -45,6 +45,7 @@ namespace Platformer
                 }
             }
 
+            
             position.Y -= yVelocity;
             yVelocity--;
         }

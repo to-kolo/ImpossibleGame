@@ -53,5 +53,4 @@ C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\
 C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
 C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Content\player.xnb
 C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Content\spike.xnb
-C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\obj\x86\Debug\Platformer.csprojResolveAssemblyReference.cache
 C:\Users\User1\Downloads\Week7 (2)\Week7\Week7\Platformer\bin\Windows\x86\Debug\Level1.txt

@@ -81,12 +81,15 @@ namespace Platformer
 
             foreach (Rectangle block in level.blocks)
             {
-                if (block.Contains(playerObject.position.X + 32,
-                    playerObject.position.Y + 64))
+                if (block.Contains(playerObject.position.X, playerObject.position.Y + 64) || block.Contains(playerObject.position.X + 64, playerObject.position.Y + 64))
                 {
                     playerObject.TouchedGround(block.Y);
                     break;
-                }     
+                }    
+                else if (block.Contains(playerObject.position.X + 64, playerObject.position.Y) || block.Contains(playerObject.position.X + 64, playerObject.position.Y + 54))
+                {
+                    playerObject.Kill();
+                }
             }
 
             foreach (Rectangle spike in level.spikes)
