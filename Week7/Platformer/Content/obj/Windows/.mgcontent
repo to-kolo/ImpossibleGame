@@ -4,9 +4,9 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/User1/Downloads/Week7 (2)/Week7/Week7/Platformer/Content/ninja.png</File>
-    <File>C:/Users/User1/Downloads/Week7 (2)/Week7/Week7/Platformer/Content/block.png</File>
-    <File>C:/Users/User1/Downloads/Week7 (2)/Week7/Week7/Platformer/Content/player.png</File>
-    <File>C:/Users/User1/Downloads/Week7 (2)/Week7/Week7/Platformer/Content/spike.png</File>
+    <File>C:/Users/User1/Source/Repos/ImpossibleGame/Week7/Platformer/Content/ninja.png</File>
+    <File>C:/Users/User1/Source/Repos/ImpossibleGame/Week7/Platformer/Content/block.png</File>
+    <File>C:/Users/User1/Source/Repos/ImpossibleGame/Week7/Platformer/Content/player.png</File>
+    <File>C:/Users/User1/Source/Repos/ImpossibleGame/Week7/Platformer/Content/spike.png</File>
   </SourceFiles>
 </SourceFileCollection>
